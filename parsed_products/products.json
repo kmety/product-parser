@@ -35,23 +35,23 @@
   "price" : "24,90 EUR",
   "colors" : [ "#000000", "#b7b7b7", "#ffffff", "#00008b" ]
 }, {
-  "articleId" : 4088963,
-  "productName" : "hose-noos-jjimarco-jjbowie-sa-navy-blazer-noos",
-  "brand" : "JACK & JONES",
-  "price" : "39,90 EUR",
-  "colors" : [ "#000080", "#000000", "#808000", "#FCF5E8" ]
-}, {
   "articleId" : 4316778,
   "productName" : "sweatshirt-club",
   "brand" : "NIKE SPORTSWEAR",
   "price" : "49,90 EUR",
   "colors" : [ "#000000", "#006400", "#b7b7b7", "#ECEAE4" ]
 }, {
+  "articleId" : 4088963,
+  "productName" : "hose-noos-jjimarco-jjbowie-sa-navy-blazer-noos",
+  "brand" : "JACK & JONES",
+  "price" : "39,90 EUR",
+  "colors" : [ "#000080", "#000000", "#808000", "#FCF5E8" ]
+}, {
   "articleId" : 3952557,
   "productName" : "pullover-onssato-multi-clr-knit-noos",
   "brand" : "ONLY & SONS",
   "price" : "29,90 EUR",
-  "colors" : [ "#006400", "#3E3F41", "#b7b7b7", "#000000" ]
+  "colors" : [ "#006400", "#3E3F41", "#b7b7b7", "#4c2002" ]
 }, {
   "articleId" : 4365509,
   "productName" : "jacke",
@@ -63,7 +63,13 @@
   "productName" : "shirt-sportswearlogograph-ic84sportswearl",
   "brand" : "LEVI'S",
   "price" : "24,95 EUR",
-  "colors" : [ "#0000ff" ]
+  "colors" : [ "#0000ff", "#add8e6" ]
+}, {
+  "articleId" : 3910663,
+  "productName" : "sweatshirt-diese-nuesse",
+  "brand" : "NAKETANO",
+  "price" : "34,90 EUR",
+  "colors" : [ "#B9B9B9", "#5B7A35", "#D4F3DD", "#663300" ]
 }, {
   "articleId" : 4147223,
   "productName" : "shirt-club-tee",
@@ -77,6 +83,12 @@
   "price" : "49,95 EUR",
   "colors" : [ "#000000", "#F8F0E2", "#bdb76b", "#b7b7b7" ]
 }, {
+  "articleId" : 4323979,
+  "productName" : "hose-onsmark-pant-stripe-gw-3727-noos",
+  "brand" : "ONLY & SONS",
+  "price" : "39,90 EUR",
+  "colors" : [ "#b7b7b7", "#000000" ]
+}, {
   "articleId" : 4305525,
   "productName" : "anzug",
   "brand" : "BRUNO BANANI",
@@ -88,12 +100,6 @@
   "brand" : "ONLY & SONS",
   "price" : "39,90 EUR",
   "colors" : [ "#6495ed" ]
-}, {
-  "articleId" : 4473538,
-  "productName" : "freizeitanzuege-m-nsw-ce-trk-suit-flc",
-  "brand" : "NIKE SPORTSWEAR",
-  "price" : "84,90 EUR",
-  "colors" : [ "#E1E1DF", "#00008b" ]
 }, {
   "articleId" : 3915350,
   "productName" : "boxershorts-chuey",
@@ -113,23 +119,11 @@
   "price" : "ab 49,90 EUR",
   "colors" : [ "#6C6D6A", "#F8F0E2", "#808000", "#000000" ]
 }, {
-  "articleId" : 3706541,
-  "productName" : "troyer-pullover",
-  "brand" : "RHODE ISLAND",
-  "price" : "49,99 EUR",
-  "colors" : [ "#C1B2A1", "#3E3F41" ]
-}, {
-  "articleId" : 3424682,
-  "productName" : "roehrenjeans-liam",
-  "brand" : "JACK & JONES",
-  "price" : "49,90 EUR",
-  "colors" : [ "#9E9DA2", "#000000", "#6495ed" ]
-}, {
-  "articleId" : 4372636,
-  "productName" : "blouson-bacon",
-  "brand" : "INDICODE JEANS",
-  "price" : "69,95 EUR",
-  "colors" : [ "#000000", "#008000", "#ffffff", "#0000ff" ]
+  "articleId" : 4430614,
+  "productName" : "sweatshirt-swoosh",
+  "brand" : "NIKE SPORTSWEAR",
+  "price" : "ab 52,90 EUR",
+  "colors" : [ "#807D84", "#2631b2" ]
 }, {
   "articleId" : 4346893,
   "productName" : "shirt",
@@ -137,29 +131,35 @@
   "price" : "34,90 EUR",
   "colors" : [ "#000000", "#b7b7b7" ]
 }, {
+  "articleId" : 3424682,
+  "productName" : "roehrenjeans-liam",
+  "brand" : "JACK & JONES",
+  "price" : "49,90 EUR",
+  "colors" : [ "#9E9DA2", "#000000", "#6495ed" ]
+}, {
   "articleId" : 4024993,
   "productName" : "langarmshirt-tjm-original-rib",
   "brand" : "TOMMY JEANS",
   "price" : "34,90 EUR",
   "colors" : [ "#00008b", "#000000", "#ffffff" ]
 }, {
-  "articleId" : 3717829,
-  "productName" : "unisex-hoody-senta",
-  "brand" : "ABOUT YOU",
+  "articleId" : 4372629,
+  "productName" : "blouson-bacon",
+  "brand" : "INDICODE JEANS",
+  "price" : "69,95 EUR",
+  "colors" : [ "#0000ff", "#008000", "#ffffff", "#000000" ]
+}, {
+  "articleId" : 4434021,
+  "productName" : "strickpullover",
+  "brand" : "JACK & JONES",
   "price" : "39,90 EUR",
-  "colors" : [ "#E1E1DF", "#ffc0cb", "#000000" ]
+  "colors" : [ "#000000", "#000080", "#7B0E2A", "#6C6D6A" ]
 }, {
   "articleId" : 3791105,
   "productName" : "anzug-4-teilig",
   "brand" : "BRUNO BANANI",
-  "price" : "ab 139,99 EUR",
+  "price" : "ab 142,99 EUR",
   "colors" : [ "#13255A" ]
-}, {
-  "articleId" : 3947842,
-  "productName" : "hoodie-ecorp",
-  "brand" : "JACK & JONES",
-  "price" : "29,90 EUR",
-  "colors" : [ "#000080", "#000000" ]
 }, {
   "articleId" : 4317516,
   "productName" : "hose",
@@ -172,6 +172,12 @@
   "brand" : "TOMMY HILFIGER",
   "price" : "39,90 EUR",
   "colors" : [ "#000000", "#00008b", "#b7b7b7" ]
+}, {
+  "articleId" : 3947842,
+  "productName" : "hoodie-ecorp",
+  "brand" : "JACK & JONES",
+  "price" : "29,90 EUR",
+  "colors" : [ "#000080", "#000000" ]
 }, {
   "articleId" : 3954802,
   "productName" : "funktionsjacke-himalayan-light-down-hoodie",
@@ -207,7 +213,13 @@
   "productName" : "shirt-ssgraphictshirt20",
   "brand" : "LEVI'S",
   "price" : "24,90 EUR",
-  "colors" : [ "#ffffff", "#b7b7b7", "#0000ff" ]
+  "colors" : [ "#ffffff", "#b7b7b7", "#0000ff", "#FE7D7E" ]
+}, {
+  "articleId" : 3717829,
+  "productName" : "unisex-hoody-senta",
+  "brand" : "ABOUT YOU",
+  "price" : "39,90 EUR",
+  "colors" : [ "#E1E1DF", "#ffc0cb", "#000000" ]
 }, {
   "articleId" : 3927828,
   "productName" : "sweatshirt",
@@ -260,7 +272,7 @@
   "articleId" : 4317725,
   "productName" : "sweatshirt",
   "brand" : "ADIDAS ORIGINALS",
-  "price" : "49,90 EUR",
+  "price" : "49,99 EUR",
   "colors" : [ "#000000", "#000080", "#d8bfd8" ]
 }, {
   "articleId" : 4472955,
@@ -269,17 +281,11 @@
   "price" : "27,90 EUR",
   "colors" : [ "#000000", "#4169e1" ]
 }, {
-  "articleId" : 1962106,
-  "productName" : "jeans-jjiglenn-jjoriginal-jos-875-noos",
-  "brand" : "JACK & JONES",
-  "price" : "69,90 EUR",
-  "colors" : [ "#6495ed" ]
-}, {
   "articleId" : 606896,
   "productName" : "boxershorts",
   "brand" : "CALVIN KLEIN UNDERWEAR",
   "price" : "ab 39,99 EUR",
-  "colors" : [ "#807D84", "#000000", "#ffffff", "#0000ff" ]
+  "colors" : [ "#807D84", "#ffffff", "#0000ff", "#00008b" ]
 }, {
   "articleId" : 4434919,
   "productName" : "shirt",
@@ -287,17 +293,35 @@
   "price" : "24,90 EUR",
   "colors" : [ "#000080", "#00008b", "#808000", "#000000" ]
 }, {
+  "articleId" : 1962106,
+  "productName" : "jeans-jjiglenn-jjoriginal-jos-875-noos",
+  "brand" : "JACK & JONES",
+  "price" : "69,90 EUR",
+  "colors" : [ "#6495ed" ]
+}, {
   "articleId" : 2201920,
   "productName" : "chino-shhyard",
   "brand" : "SELECTED HOMME",
   "price" : "59,90 EUR",
   "colors" : [ "#2631b2", "#663300", "#E1D1B2", "#4C4D4F" ]
 }, {
-  "articleId" : 4342654,
-  "productName" : "jeans-tim",
+  "articleId" : 4320114,
+  "productName" : "shirt",
+  "brand" : "ADIDAS ORIGINALS",
+  "price" : "34,90 EUR",
+  "colors" : [ "#000000", "#000080", "#006400" ]
+}, {
+  "articleId" : 3933220,
+  "productName" : "pullover",
   "brand" : "JACK & JONES",
-  "price" : "79,90 EUR",
-  "colors" : [ "#00008b", "#6495ed" ]
+  "price" : "24,90 EUR",
+  "colors" : [ "#6C6D6A", "#807D84", "#000000", "#191970" ]
+}, {
+  "articleId" : 3693178,
+  "productName" : "t-shirt",
+  "brand" : "LEVI'S",
+  "price" : "24,90 EUR",
+  "colors" : [ "#00008b", "#b7b7b7", "#ffffff", "#000000" ]
 }, {
   "articleId" : 3665552,
   "productName" : "t-shirt-prado",
@@ -311,53 +335,59 @@
   "price" : "22,90 EUR",
   "colors" : [ "#000080", "#b7b7b7", "#7B0E2A", "#ff0000" ]
 }, {
-  "articleId" : 4166753,
-  "productName" : "jeans-iglenn",
-  "brand" : "JACK & JONES",
-  "price" : "39,90 EUR",
-  "colors" : [ "#303030", "#6495ed" ]
-}, {
-  "articleId" : 4320114,
-  "productName" : "shirt",
-  "brand" : "ADIDAS ORIGINALS",
-  "price" : "34,90 EUR",
-  "colors" : [ "#000000", "#000080", "#006400" ]
-}, {
-  "articleId" : 3693178,
-  "productName" : "t-shirt",
-  "brand" : "LEVI'S",
-  "price" : "24,90 EUR",
-  "colors" : [ "#00008b", "#b7b7b7", "#ffffff", "#000000" ]
-}, {
-  "articleId" : 4318915,
-  "productName" : "kapuzensweatshirt",
-  "brand" : "NIKE SPORTSWEAR",
-  "price" : "54,99 EUR",
-  "colors" : [ "#000000", "#807D84" ]
-}, {
-  "articleId" : 3919662,
-  "productName" : "t-shirt-original-hm-tee",
-  "brand" : "LEVI'S",
-  "price" : "19,90 EUR",
-  "colors" : [ "#ff0000", "#ff7f50", "#000080", "#0000ff" ]
-}, {
   "articleId" : 4383745,
   "productName" : "jacke",
   "brand" : "TOMMY JEANS",
   "price" : "199,00 EUR",
   "colors" : [ "#000000", "#00008b", "#B5AC9E", "#ff0000" ]
 }, {
-  "articleId" : 3935610,
-  "productName" : "pullover",
+  "articleId" : 4166753,
+  "productName" : "jeans-iglenn",
   "brand" : "JACK & JONES",
-  "price" : "24,90 EUR",
-  "colors" : [ "#000000", "#807D84", "#6C6D6A", "#191970" ]
+  "price" : "39,90 EUR",
+  "colors" : [ "#303030", "#6495ed" ]
+}, {
+  "articleId" : 4318915,
+  "productName" : "kapuzensweatshirt",
+  "brand" : "NIKE SPORTSWEAR",
+  "price" : "54,99 EUR",
+  "colors" : [ "#000000", "#ff0000", "#807D84" ]
+}, {
+  "articleId" : 3919662,
+  "productName" : "t-shirt-original-hm-tee",
+  "brand" : "LEVI'S",
+  "price" : "19,90 EUR",
+  "colors" : [ "#ff0000", "#000080", "#0000ff", "#add8e6" ]
+}, {
+  "articleId" : 4474261,
+  "productName" : "sweatshirt-club",
+  "brand" : "NIKE SPORTSWEAR",
+  "price" : "49,90 EUR",
+  "colors" : [ "#7B0E2A", "#006400", "#b7b7b7", "#ECEAE4" ]
 }, {
   "articleId" : 4304953,
   "productName" : "shirt-albert",
   "brand" : "ONLY & SONS",
   "price" : "14,90 EUR",
   "colors" : [ "#808000", "#6C6D6A", "#7cfc00", "#ffffff" ]
+}, {
+  "articleId" : 4342654,
+  "productName" : "jeans-tim",
+  "brand" : "JACK & JONES",
+  "price" : "79,90 EUR",
+  "colors" : [ "#00008b", "#6495ed" ]
+}, {
+  "articleId" : 4300548,
+  "productName" : "sweatshirt",
+  "brand" : "ELLESSE",
+  "price" : "ab 44,90 EUR",
+  "colors" : [ "#000000", "#b7b7b7", "#0000ff", "#6C6D6A" ]
+}, {
+  "articleId" : 3808658,
+  "productName" : "hemd-alfredo",
+  "brand" : "ONLY & SONS",
+  "price" : "29,90 EUR",
+  "colors" : [ "#000000", "#ffffff", "#000080", "#8C0E1D" ]
 }, {
   "articleId" : 4337479,
   "productName" : "shirt-club",
@@ -371,23 +401,11 @@
   "price" : "49,90 EUR",
   "colors" : [ "#000000", "#6C6D6A" ]
 }, {
-  "articleId" : 3930898,
-  "productName" : "hemd-jjegingham-shirt-l-s",
-  "brand" : "JACK & JONES",
-  "price" : "29,90 EUR",
-  "colors" : [ "#00008b", "#191970", "#ff0000" ]
-}, {
   "articleId" : 3887309,
   "productName" : "t-shirt-pray",
   "brand" : "MISTER TEE",
   "price" : "ab 19,90 EUR",
   "colors" : [ "#b7b7b7", "#807D84", "#A4050C" ]
-}, {
-  "articleId" : 3886920,
-  "productName" : "sweatshirt-pray-hoody",
-  "brand" : "MISTER TEE",
-  "price" : "39,90 EUR",
-  "colors" : [ "#b7b7b7", "#807D84" ]
 }, {
   "articleId" : 4299766,
   "productName" : "t-shirt",
@@ -395,23 +413,17 @@
   "price" : "29,90 EUR",
   "colors" : [ "#F74848", "#ff0000", "#3F5C9B", "#E1E1DF" ]
 }, {
-  "articleId" : 4310605,
-  "productName" : "jeans",
-  "brand" : "ONLY & SONS",
-  "price" : "39,90 EUR",
-  "colors" : [ "#6495ed" ]
-}, {
   "articleId" : 3424616,
   "productName" : "roehrenjeans-liam",
   "brand" : "JACK & JONES",
   "price" : "49,90 EUR",
   "colors" : [ "#000000", "#6495ed", "#9E9DA2" ]
 }, {
-  "articleId" : 4372629,
-  "productName" : "blouson-bacon",
-  "brand" : "INDICODE JEANS",
-  "price" : "69,95 EUR",
-  "colors" : [ "#0000ff", "#008000", "#ffffff", "#000000" ]
+  "articleId" : 4310605,
+  "productName" : "jeans",
+  "brand" : "ONLY & SONS",
+  "price" : "39,90 EUR",
+  "colors" : [ "#6495ed" ]
 }, {
   "articleId" : 4479243,
   "productName" : "sweatshirt",
@@ -419,16 +431,22 @@
   "price" : "59,90 EUR",
   "colors" : [ "#0000ff", "#b7b7b7", "#ffff00", "#306C44" ]
 }, {
+  "articleId" : 4435884,
+  "productName" : "jeans-warp",
+  "brand" : "ONLY & SONS",
+  "price" : "44,90 EUR",
+  "colors" : [ "#6495ed" ]
+}, {
   "articleId" : 3923174,
   "productName" : "hemd-jjesheridan-shirt-l-s",
   "brand" : "JACK & JONES",
-  "price" : "39,99 EUR",
+  "price" : "39,90 EUR",
   "colors" : [ "#303030", "#b7b7b7", "#6495ed" ]
 }, {
   "articleId" : 4419889,
   "productName" : "mantel",
   "brand" : "ONLY & SONS",
-  "price" : "59,99 EUR",
+  "price" : "59,90 EUR",
   "colors" : [ "#6C6D6A", "#00008b", "#000000" ]
 }, {
   "articleId" : 3653194,
@@ -443,12 +461,6 @@
   "price" : "14,95 EUR",
   "colors" : [ "#bdb76b", "#BA2345", "#807D84", "#3E3F41" ]
 }, {
-  "articleId" : 3822916,
-  "productName" : "t-shirt-tjm-original-jersey",
-  "brand" : "TOMMY JEANS",
-  "price" : "24,90 EUR",
-  "colors" : [ "#00008b", "#000000", "#E1E1DF", "#ffffff" ]
-}, {
   "articleId" : 3924766,
   "productName" : "hoodie",
   "brand" : "JACK & JONES",
@@ -460,12 +472,6 @@
   "brand" : "TOMMY HILFIGER UNDERWEAR",
   "price" : "ab 39,99 EUR",
   "colors" : [ "#000000", "#000080", "#00008b", "#b7b7b7" ]
-}, {
-  "articleId" : 3568766,
-  "productName" : "jeans-3301-straight",
-  "brand" : "G-STAR RAW",
-  "price" : "99,90 EUR",
-  "colors" : [ "#00008b", "#6495ed", "#303030" ]
 }, {
   "articleId" : 2048483,
   "productName" : "jeans-clark-original",
@@ -479,11 +485,11 @@
   "price" : "89,90 EUR",
   "colors" : [ "#000000", "#b7b7b7", "#6C6D6A", "#E1E1DF" ]
 }, {
-  "articleId" : 4374825,
-  "productName" : "t-shirt",
-  "brand" : "CALVIN KLEIN JEANS",
-  "price" : "39,90 EUR",
-  "colors" : [ "#000000", "#ffffff", "#00008b", "#b7b7b7" ]
+  "articleId" : 3568766,
+  "productName" : "jeans-3301-straight",
+  "brand" : "G-STAR RAW",
+  "price" : "99,90 EUR",
+  "colors" : [ "#00008b", "#6495ed", "#303030" ]
 }, {
   "articleId" : 3824335,
   "productName" : "t-shirt-3-stripes",
@@ -491,17 +497,29 @@
   "price" : "29,99 EUR",
   "colors" : [ "#000000", "#ff0000", "#87ceeb", "#006400" ]
 }, {
+  "articleId" : 4348040,
+  "productName" : "herren-shirts-und-polos-jjeorganic-basic-tee-ss-o-neck-noos",
+  "brand" : "JACK & JONES",
+  "price" : "12,90 EUR",
+  "colors" : [ "#ffffff", "#000080", "#808000", "#7B0E2A" ]
+}, {
+  "articleId" : 4374825,
+  "productName" : "t-shirt",
+  "brand" : "CALVIN KLEIN JEANS",
+  "price" : "39,90 EUR",
+  "colors" : [ "#000000", "#ffffff", "#00008b", "#b7b7b7" ]
+}, {
   "articleId" : 4433580,
   "productName" : "t-shirt",
   "brand" : "S.OLIVER",
   "price" : "15,90 EUR",
   "colors" : [ "#0000ff", "#00008b", "#b7b7b7" ]
 }, {
-  "articleId" : 4348040,
-  "productName" : "herren-shirts-und-polos-jjeorganic-basic-tee-ss-o-neck-noos",
+  "articleId" : 4304675,
+  "productName" : "jeans-iglenn",
   "brand" : "JACK & JONES",
-  "price" : "12,90 EUR",
-  "colors" : [ "#ffffff", "#000080", "#808000", "#7B0E2A" ]
+  "price" : "39,90 EUR",
+  "colors" : [ "#303030" ]
 }, {
   "articleId" : 3522263,
   "productName" : "t-shirt",
@@ -512,12 +530,6 @@
   "articleId" : 4020020,
   "productName" : "jeans-onsloom-black-dcc-0448-noos",
   "brand" : "ONLY & SONS",
-  "price" : "39,90 EUR",
-  "colors" : [ "#303030" ]
-}, {
-  "articleId" : 4304675,
-  "productName" : "jeans-iglenn",
-  "brand" : "JACK & JONES",
   "price" : "39,90 EUR",
   "colors" : [ "#303030" ]
 }, {
@@ -533,17 +545,23 @@
   "price" : "ab 25,90 EUR",
   "colors" : [ "#306C44", "#000000" ]
 }, {
-  "articleId" : 4316751,
-  "productName" : "sweatshirt-club",
-  "brand" : "NIKE SPORTSWEAR",
-  "price" : "49,90 EUR",
-  "colors" : [ "#006400", "#b7b7b7", "#ECEAE4", "#ffffff" ]
-}, {
   "articleId" : 4086666,
   "productName" : "hose-marco",
   "brand" : "JACK & JONES",
   "price" : "39,90 EUR",
   "colors" : [ "#000000", "#808000", "#000080", "#FCF5E8" ]
+}, {
+  "articleId" : 3806551,
+  "productName" : "jogginghose",
+  "brand" : "ADIDAS ORIGINALS",
+  "price" : "59,90 EUR",
+  "colors" : [ "#000000", "#0000ff" ]
+}, {
+  "articleId" : 3935608,
+  "productName" : "hose-jjeholmen-sweat-pants-noos",
+  "brand" : "JACK & JONES",
+  "price" : "24,90 EUR",
+  "colors" : [ "#0000ff", "#000000", "#E1E1DF", "#6C6D6A" ]
 }, {
   "articleId" : 4440053,
   "productName" : "parka-leicester",
@@ -557,45 +575,27 @@
   "price" : "129,00 EUR",
   "colors" : [ "#0000ff" ]
 }, {
-  "articleId" : 3935608,
-  "productName" : "hose-jjeholmen-sweat-pants-noos",
-  "brand" : "JACK & JONES",
-  "price" : "24,90 EUR",
-  "colors" : [ "#0000ff", "#000000", "#E1E1DF", "#6C6D6A" ]
-}, {
   "articleId" : 3568134,
   "productName" : "print-shirt",
   "brand" : "ALPHA INDUSTRIES",
   "price" : "19,90 EUR",
   "colors" : [ "#000000", "#ffffff", "#807D84", "#000080" ]
 }, {
-  "articleId" : 4462437,
-  "productName" : "sweatshirts",
-  "brand" : "TOMMY JEANS",
-  "price" : "69,90 EUR",
-  "colors" : [ "#000000", "#ffffff" ]
-}, {
-  "articleId" : 3650747,
-  "productName" : "t-shirt-prado",
-  "brand" : "ELLESSE",
-  "price" : "21,90 EUR",
-  "colors" : [ "#00008b", "#000000", "#191970" ]
-}, {
-  "articleId" : 3909565,
-  "productName" : "t-shirt",
-  "brand" : "NAKETANO",
-  "price" : "22,90 EUR",
-  "colors" : [ "#807D84", "#b0c4de", "#6C6D6A", "#663300" ]
-}, {
   "articleId" : 4106693,
   "productName" : "jeans-jjitom-jjoriginal-am-815-noos",
   "brand" : "JACK & JONES",
-  "price" : "39,99 EUR",
+  "price" : "39,90 EUR",
   "colors" : [ "#6495ed" ]
 }, {
-  "articleId" : 3569888,
-  "productName" : "t-shirt-onsmatt-longy-tee",
-  "brand" : "ONLY & SONS",
-  "price" : "14,90 EUR",
-  "colors" : [ "#ffffff", "#000000", "#E1E1DF", "#3E3F41" ]
+  "articleId" : 4044590,
+  "productName" : "sweatshirt-al-kohol",
+  "brand" : "NAKETANO",
+  "price" : "34,90 EUR",
+  "colors" : [ "#6C6D6A", "#E1E1DF", "#EFE4CB", "#b7b7b7" ]
+}, {
+  "articleId" : 3431043,
+  "productName" : "t-shirt",
+  "brand" : "LEVI'S",
+  "price" : "24,90 EUR",
+  "colors" : [ "#ffffff", "#b7b7b7", "#000000", "#00008b" ]
 } ]
